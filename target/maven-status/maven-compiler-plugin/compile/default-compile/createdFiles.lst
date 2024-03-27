@@ -1,0 +1,8 @@
+com/mycompany/stockpickerproject/resources/JakartaEE10Resource.class
+com/mycompany/stockpickerproject/Stock.class
+com/mycompany/stockpickerproject/StockDatabaseInterface.class
+com/mycompany/stockpickerproject/DividendPayment.class
+com/mycompany/stockpickerproject/PolygonSmartStockView.class
+com/mycompany/stockpickerproject/JakartaRestConfiguration.class
+com/mycompany/stockpickerproject/PolygonStockUtil.class
+com/mycompany/stockpickerproject/PolygonStockAPICaller.class
